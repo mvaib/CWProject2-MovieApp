@@ -11,7 +11,6 @@ CWProject2-MovieApp is a public repository focused on a Movie Application projec
 
 ## Project Features
 1. **Purpose**: This project aims to build a Movie Application.
-2. **Tech Stack**: Utilizes JavaScript, CSS, and HTML.
 
 ## Next Steps
 - Explore and implement additional features for the MovieApp project.
